@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/ratePatient"
+            android:icon="@drawable/rate"
+            android:title="Rate Patient" />
+        <item
+            android:id="@+id/myreviews"
+            android:icon="@drawable/patientreview"
+            android:title="Patient Reviews" />
+        <item
+            android:id="@+id/editprofile"
+            android:icon="@drawable/edit"
+            android:title="Edit Profile" />
+        <item
+            android:id="@+id/logOut"
+            android:icon="@drawable/logout"
+            android:title="Log Out" />
+    </group>
+
+
+
+</menu>

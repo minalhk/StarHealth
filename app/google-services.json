@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40941022319",
+    "firebase_url": "https://starhealth-de2a8.firebaseio.com",
+    "project_id": "starhealth-de2a8",
+    "storage_bucket": "starhealth-de2a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40941022319:android:e5996c2a6b44fb34b1319a",
+        "android_client_info": {
+          "package_name": "com.example.starhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40941022319-alf7pgo2iu4ed828hovidi1is4hbash6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.starhealth",
+            "certificate_hash": "294494518acaf9ca26891193bfb7009c2499b769"
+          }
+        },
+        {
+          "client_id": "40941022319-m59g8e6742bq0n8u8dh48ms320spi07h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqUQdsAsRFWvOOJth-WK31htH2gpvDBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40941022319-m59g8e6742bq0n8u8dh48ms320spi07h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
